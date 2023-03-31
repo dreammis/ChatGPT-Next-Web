@@ -627,10 +627,8 @@ export function Home() {
         className={styles.sidebar + ` ${showSideBar && styles["sidebar-show"]}`}
       >
         <div className={styles["sidebar-header"]}>
-          <div className={styles["sidebar-title"]}>ChatGPT Next</div>
-          <div className={styles["sidebar-sub-title"]}>
-            Build your own AI assistant.
-          </div>
+          <div className={styles["sidebar-title"]}>🐼Pookz</div>
+          <div className={styles["sidebar-sub-title"]}>内部专供，请勿乱传.</div>
           <div className={styles["sidebar-logo"]}>
             <ChatGptIcon />
           </div>
@@ -668,7 +666,7 @@ export function Home() {
               />
             </div>
             <div className={styles["sidebar-action"]}>
-              <a href={REPO_URL} target="_blank">
+              <a href="https://www.allaitools.cn" target="_blank">
                 <IconButton icon={<GithubIcon />} />
               </a>
             </div>
