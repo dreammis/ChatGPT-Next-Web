@@ -17,8 +17,8 @@ try {
 }
 
 export const metadata = {
-  title: "",
-  description: "Raina Serenity",
+  title: "❤️Raina Serenity",
+  description: "Father Of Raina Serenity",
   appleWebApp: {
     title: "Raina Serenity",
     statusBarStyle: "black-translucent",
